@@ -92,3 +92,5 @@ The project successfully promotes awareness about children’s rights among teen
 
 ## 👩‍🎓 Developed By
 Neha Shewale
+Nikita Shewale
+Poonam Borase
